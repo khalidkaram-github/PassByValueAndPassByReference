@@ -10,7 +10,7 @@
             PassByValue(x);
             Console.WriteLine(x);
 
-            //
+            //PassByRefrence
             PassByRefrence(ref x);
             Console.WriteLine(x);
         }
